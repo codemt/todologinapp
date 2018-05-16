@@ -7,8 +7,8 @@ STEPS TO RUN :
 
 # INSTALLATION
 ```
-  NPM INSTALL or YARN INSTALL 
-  
-  NPM START or YARN START
+   cd todologinapp/
+   npm install or yarn install
+   npm start or yarn start
   
 ```   
