@@ -1,1 +1,14 @@
 # TodoLoginApp
+
+
+STEPS TO RUN :
+
+# CLONE REPO
+
+# INSTALLATION
+```
+  NPM INSTALL or YARN INSTALL 
+  
+  NPM START or YARN START
+  
+```   
